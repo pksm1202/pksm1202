@@ -3,6 +3,11 @@ p {
   font-size: 18pt
 }
 .sweet {
-  color: blue;
-  font-size:
+  color: rgb(7, 7, 7);
+  font-size: 60px;
+}
+body{
+  background-image: url("배결.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
